@@ -2,6 +2,7 @@ package Basic;
 
 import java.util.Scanner;
 
+
 // import java.util.Scanner;
 
 class array1 {
